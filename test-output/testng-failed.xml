@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="appiumTests.LetsShopTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="LetsShopTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- appiumTests.LetsShopTest -->
+      <class name="appiumTests.AddToCartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="AddToCartTest"/>
+        </methods>
+      </class> <!-- appiumTests.AddToCartTest -->
+      <class name="appiumTests.ValidateToastMessageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="ValidateToastMessageTest"/>
+        </methods>
+      </class> <!-- appiumTests.ValidateToastMessageTest -->
+      <class name="appiumTests.CompletePurchaseTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="CompletePurchaseTest"/>
+        </methods>
+      </class> <!-- appiumTests.CompletePurchaseTest -->
+      <class name="appiumTests.TermsAndConditionsTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TermsAndConditionsTest"/>
+        </methods>
+      </class> <!-- appiumTests.TermsAndConditionsTest -->
+      <class name="appiumTests.LaunchAppTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="LaunchAppTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- appiumTests.LaunchAppTest -->
+      <class name="appiumTests.ShopSelectingUnitedStatesTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="ShopSelectingUnitedStatesTest"/>
+        </methods>
+      </class> <!-- appiumTests.ShopSelectingUnitedStatesTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-29T16:11:19 EST" name="Suite" finished-at="2026-01-29T16:14:21 EST" duration-ms="181433">
+    <groups>
+    </groups>
+    <test started-at="2026-01-29T16:11:19 EST" name="Test" finished-at="2026-01-29T16:14:21 EST" duration-ms="181433">
+      <class name="appiumTests.ShopSelectingUnitedStatesTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.ShopSelectingUnitedStatesTest@4c12331b]" started-at="2026-01-29T16:12:20 EST" name="setUp" finished-at="2026-01-29T16:12:26 EST" duration-ms="6661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ShopSelectingUnitedStatesTest()[pri:0, instance:appiumTests.ShopSelectingUnitedStatesTest@4c12331b]" started-at="2026-01-29T16:12:26 EST" name="ShopSelectingUnitedStatesTest" finished-at="2026-01-29T16:13:06 EST" duration-ms="39379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopSelectingUnitedStatesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.ShopSelectingUnitedStatesTest@4c12331b]" started-at="2026-01-29T16:13:06 EST" name="tearDown" finished-at="2026-01-29T16:13:07 EST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.ShopSelectingUnitedStatesTest -->
+      <class name="appiumTests.LaunchAppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.LaunchAppTest@5b12b668]" started-at="2026-01-29T16:11:51 EST" name="setUp" finished-at="2026-01-29T16:11:59 EST" duration-ms="7976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LaunchAppTest()[pri:0, instance:appiumTests.LaunchAppTest@5b12b668]" started-at="2026-01-29T16:11:59 EST" name="LaunchAppTest" finished-at="2026-01-29T16:12:03 EST" duration-ms="4126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAppTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.LaunchAppTest@5b12b668]" started-at="2026-01-29T16:12:03 EST" name="tearDown" finished-at="2026-01-29T16:12:05 EST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.LaunchAppTest -->
+      <class name="appiumTests.LetsShopTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.LetsShopTest@1165b38]" started-at="2026-01-29T16:12:05 EST" name="setUp" finished-at="2026-01-29T16:12:12 EST" duration-ms="6834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LetsShopTest()[pri:0, instance:appiumTests.LetsShopTest@1165b38]" started-at="2026-01-29T16:12:12 EST" name="LetsShopTest" finished-at="2026-01-29T16:12:18 EST" duration-ms="6855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LetsShopTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.LetsShopTest@1165b38]" started-at="2026-01-29T16:12:18 EST" name="tearDown" finished-at="2026-01-29T16:12:20 EST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.LetsShopTest -->
+      <class name="appiumTests.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.AddToCartTest@3590fc5b]" started-at="2026-01-29T16:11:20 EST" name="setUp" finished-at="2026-01-29T16:11:35 EST" duration-ms="14898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCartTest()[pri:0, instance:appiumTests.AddToCartTest@3590fc5b]" started-at="2026-01-29T16:11:35 EST" name="AddToCartTest" finished-at="2026-01-29T16:11:50 EST" duration-ms="14843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.AddToCartTest@3590fc5b]" started-at="2026-01-29T16:11:50 EST" name="tearDown" finished-at="2026-01-29T16:11:51 EST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.AddToCartTest -->
+      <class name="appiumTests.CompletePurchaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.CompletePurchaseTest@815b41f]" started-at="2026-01-29T16:13:49 EST" name="setUp" finished-at="2026-01-29T16:13:55 EST" duration-ms="6972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CompletePurchaseTest()[pri:0, instance:appiumTests.CompletePurchaseTest@815b41f]" started-at="2026-01-29T16:13:55 EST" name="CompletePurchaseTest" finished-at="2026-01-29T16:14:19 EST" duration-ms="23473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompletePurchaseTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.CompletePurchaseTest@815b41f]" started-at="2026-01-29T16:14:19 EST" name="tearDown" finished-at="2026-01-29T16:14:21 EST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.CompletePurchaseTest -->
+      <class name="appiumTests.ValidateToastMessageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.ValidateToastMessageTest@3b69e7d1]" started-at="2026-01-29T16:13:34 EST" name="setUp" finished-at="2026-01-29T16:13:42 EST" duration-ms="8065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateToastMessageTest()[pri:0, instance:appiumTests.ValidateToastMessageTest@3b69e7d1]" started-at="2026-01-29T16:13:42 EST" name="ValidateToastMessageTest" finished-at="2026-01-29T16:13:47 EST" duration-ms="5499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateToastMessageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.ValidateToastMessageTest@3b69e7d1]" started-at="2026-01-29T16:13:47 EST" name="tearDown" finished-at="2026-01-29T16:13:49 EST" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.ValidateToastMessageTest -->
+      <class name="appiumTests.TermsAndConditionsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumTests.TermsAndConditionsTest@7586beff]" started-at="2026-01-29T16:13:07 EST" name="setUp" finished-at="2026-01-29T16:13:15 EST" duration-ms="7374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TermsAndConditionsTest()[pri:0, instance:appiumTests.TermsAndConditionsTest@7586beff]" started-at="2026-01-29T16:13:15 EST" name="TermsAndConditionsTest" finished-at="2026-01-29T16:13:33 EST" duration-ms="17858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermsAndConditionsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appiumTests.TermsAndConditionsTest@7586beff]" started-at="2026-01-29T16:13:33 EST" name="tearDown" finished-at="2026-01-29T16:13:34 EST" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appiumTests.TermsAndConditionsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

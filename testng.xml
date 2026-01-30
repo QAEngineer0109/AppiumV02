@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="classes" thread-count="1">
+  <test name="Test">
+  
+  <listeners>
+  <listener class-name="listeners.ExtentTestListener"/>
+</listeners>
+  
+  
+    <classes>
+      <class name="appiumTests.AddToCartTest"/>
+       <class name="appiumTests.LaunchAppTest"/>
+       <class name="appiumTests.LetsShopTest"/>
+       <class name="appiumTests.ShopSelectingUnitedStatesTest"/>
+      <class name="appiumTests.TermsAndConditionsTest"/>
+      <class name="appiumTests.ValidateToastMessageTest"/>
+      <class name="appiumTests.CompletePurchaseTest"/>
+      <!-- add the rest -->
+    </classes>
+  </test>
+</suite>
